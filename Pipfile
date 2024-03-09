@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pandas = "*"
 openai = "*"
+jupyterlab = "<4.1.0"
+notebook = "*"
+scipy = "*"
 
 [dev-packages]
 
